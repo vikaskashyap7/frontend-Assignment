@@ -20,12 +20,15 @@ git clone https://github.com/yourusername/multi-step-form.git
 cd multi-step-form
 
 
+**
+
 ## 🔮 Future Improvements
 ✅ LocalStorage Integration – Save form progress if the page reloads
 ✅ Backend API Support – Submit form data to a server
 ✅ Animations & Transitions – Improve user experience
 ✅ Dark Mode Support – Enhance accessibility
 
+**
 
 ## 📌 Scalability & Usability Enhancements
 To make this production-ready, consider:
